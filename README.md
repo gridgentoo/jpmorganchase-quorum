@@ -7,7 +7,9 @@
 [![Download](https://api.bintray.com/packages/quorumengineering/quorum/geth/images/download.svg)](https://bintray.com/quorumengineering/quorum/geth/_latestVersion)
 [![Docker Pulls](https://img.shields.io/docker/pulls/quorumengineering/quorum)](https://hub.docker.com/r/quorumengineering/quorum)
 
+
 Quorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
+
 
 Quorum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
 
